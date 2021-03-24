@@ -1,5 +1,8 @@
-Thanks To JLCPCB For $2 PCB Prototype With Free SMT Assembly Fee.
-Order Now - https://jlcpcb.com 
+Thanks To JLCPCB.
+
+$2 for 1-4 Layer PCBs.
+
+Get SMT Coupons: https://jlcpcb.com/RTA
 
 In This Video, We Are Going To Show You Making A Simple 12v Led Flasher Circuit Without IC & Relay. It Is A Very Cheap Electronics Circuit. You Can Make This Led Flasher Circuit At Home Easily & You Can Use This Circuit As Like School Project, College Project Or Any Other Electronics Project. To Make This Led Flasher/ Chase Circuit, You Don't Need Any Kind Of IC & Relay. 
 To Make This Simple 12v Led Flasher Circuit, You Might Need Some Electronics Component. 
